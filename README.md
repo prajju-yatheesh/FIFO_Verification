@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>FIFO Design and Verification</title>
+  
 </head>
 <body>
 
