@@ -10,6 +10,8 @@
 
   <p><strong>Language:</strong> SystemVerilog</p>
   <p><strong>Tool:</strong> EDA Playground</p>
+  <p><strong>Project Link:</strong><a>https://www.edaplayground.com/x/Z92G</a> EDA Playground</p>
+  
 
   <h2>Project Overview</h2>
   <p>This project implements a synchronous FIFO (First-In First-Out) memory using SystemVerilog. The design and testbench are written and simulated using EDA Playground.</p>
