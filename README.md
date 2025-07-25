@@ -10,7 +10,8 @@
 
   <p><strong>Language:</strong> SystemVerilog</p>
   <p><strong>Tool:</strong> EDA Playground</p>
-  <p><strong>Project Link:<a> href="https://www.edaplayground.com/x/Z92G">EDA Playground</a></p>
+  Project Link: [EDA Playground](https://www.edaplayground.com/x/Z92G)
+
   
 
   <h2>Project Overview</h2>
